@@ -1,0 +1,8 @@
+﻿  Engine.cpp
+C:\Users\BearAndrei\Desktop\proiesc sdaaa\doamne ajuta plang nu mai pot help\Lumina\Lumina\Engine.h(52,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\Desktop\proiesc sdaaa\doamne ajuta plang nu mai pot help\Lumina\Lumina\Engine.h(52,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\Desktop\proiesc sdaaa\doamne ajuta plang nu mai pot help\Lumina\Lumina\Engine.h(58,7): warning C4996: 'sf::Text::setColor': was declared deprecated
+C:\Users\BearAndrei\Desktop\proiesc sdaaa\doamne ajuta plang nu mai pot help\Lumina\Lumina\Engine.h(91,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\Desktop\proiesc sdaaa\doamne ajuta plang nu mai pot help\Lumina\Lumina\Engine.h(91,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\Desktop\proiesc sdaaa\doamne ajuta plang nu mai pot help\Lumina\Lumina\Engine.cpp(70,24): warning C4018: '<': signed/unsigned mismatch
+  Lumina.vcxproj -> C:\Users\BearAndrei\Desktop\proiesc sdaaa\doamne ajuta plang nu mai pot help\Lumina\Debug\Lumina.exe

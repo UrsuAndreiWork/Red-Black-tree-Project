@@ -1,0 +1,9 @@
+#include <SFML/Graphics.hpp>
+#include <SFML/Window.hpp>
+#include <string>
+#include <iostream>
+#include <sstream>
+#include <time.h> 
+#include <vector>
+#include <stdlib.h>   
+#include <cstdlib>
